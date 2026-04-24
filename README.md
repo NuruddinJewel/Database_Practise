@@ -4,5 +4,6 @@
 3. HeroUI
 4. GravityUI Icons
 5. MongoDB
-6. Vercel for Deployment
+6. Authentication Framework : Better-Auth
+7. Vercel for Deployment
 
